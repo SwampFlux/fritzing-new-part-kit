@@ -8,6 +8,7 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 ## Features
 
 ### Breadboard
+![Blank breadboard template](screenshots/breadboard-fresh.png)
 - a warm neutral background that mimicks the off-white of a breadboard
 - all units set to inches
 - a grid named DIP that you can turn on or off
