@@ -58,13 +58,13 @@
      inkscape:window-height="960"
      id="namedview26"
      showgrid="true"
-     inkscape:zoom="4.667186"
+     inkscape:zoom="9.334372"
      inkscape:cx="19.992322"
      inkscape:cy="21.096986"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="copper0"
+     inkscape:current-layer="outline"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
@@ -75,7 +75,7 @@
      borderlayer="true">
     <inkscape:grid
        type="xygrid"
-       id="grid4651"
+       id="DIP"
        units="in"
        empspacing="1"
        spacingx="2.54"
@@ -85,6 +85,96 @@
        empcolor="#aa0000"
        empopacity="0.21176471"
        enabled="true"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="MSOP-8,SSOP"
+       units="mm"
+       empspacing="1"
+       spacingx="0.65"
+       spacingy="0.65"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#34aa00"
+       empopacity="0.21176471"
+       enabled="false"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="MSOP-10,16"
+       units="mm"
+       empspacing="1"
+       spacingx="0.5"
+       spacingy="0.5"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#00aa9b"
+       empopacity="0.21176471"
+       enabled="false"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="SOIC"
+       units="in"
+       empspacing="1"
+       spacingx="1.27"
+       spacingy="1.27"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#0067aa"
+       empopacity="0.21176471"
+       enabled="false"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="SOT"
+       units="mm"
+       empspacing="0"
+       spacingx="0.95"
+       spacingy="0.95"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#7600aa"
+       empopacity="0.21176471"
+       enabled="false"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="TQFP"
+       units="mm"
+       empspacing="1"
+       spacingx="0.8"
+       spacingy="0.8"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#aa0094"
+       empopacity="0.21176471"
+       enabled="false"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+    <inkscape:grid
+       type="xygrid"
+       id="PLCC"
+       units="in"
+       empspacing="1"
+       spacingx="1.27"
+       spacingy="1.27"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#aa0051"
+       empopacity="0.21176471"
+       enabled="false"
        dotted="false"
        originy="1.27"
        originx="1.27" />
@@ -134,6 +224,22 @@
     </g>
   </g>
   <g
+     id="keepout"
+     inkscape:groupmode="layer"
+     inkscape:label="Keep Out" />
+  <g
+     id="soldermask"
+     inkscape:groupmode="layer"
+     inkscape:label="Solder Mask">
+    <rect
+       style="fill:#0f6b24;fill-opacity:0.56284153;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect19161"
+       width="12.699999"
+       height="7.0074592"
+       x="-1.27"
+       y="8.6499996" />
+  </g>
+  <g
      id="silkscreen"
      inkscape:groupmode="layer"
      inkscape:label="Silkscreen"
@@ -151,21 +257,5 @@
        cx="4.0758104"
        cy="5.9535193"
        r="2.859287" />
-  </g>
-  <g
-     id="keepout"
-     inkscape:groupmode="layer"
-     inkscape:label="Keep Out" />
-  <g
-     id="soldermask"
-     inkscape:groupmode="layer"
-     inkscape:label="Solder Mask">
-    <rect
-       style="fill:#008080;fill-opacity:0.56284156;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect19161"
-       width="12.699999"
-       height="7.0074592"
-       x="-1.27"
-       y="8.6499996" />
   </g>
 </svg>
