@@ -14,8 +14,12 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 - snapping settings that make lining up with the grid excellent
 
 ### Schematic
-- all units set to inches (no one explains these things)
-- a grid that actually matches the schematic view
+- not-white background so you can see your white-filled shapes
+- document units set to inches (no one explains these things)
+- line width units in pixels (1px is the standard)
+- 0.1in grid that actually matches the schematic view
+- a boring default square you can use or delete
+- a couple boring lines with rounded caps you can use, duplicate, or delete
 
 ### PCB
 - see most of the groups in the layers panel
