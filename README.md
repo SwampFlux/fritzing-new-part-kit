@@ -11,8 +11,11 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 ![Blank breadboard template](screenshots/breadboard-fresh.png)
 - a warm neutral background that mimicks the off-white of a breadboard
 - all units set to inches
-- a grid named DIP that you can turn on or off
+- a DIP grid that you can turn on or off
 - snapping settings that make lining up with the grid excellent
+- example box that gets the job done with minimal complexity
+- pins made of single strokes
+- pins on their own top layer so you won't have trouble selecting them later
 
 ### Schematic
 ![Blank schematic template](screenshots/schematic-fresh.png)
@@ -22,6 +25,7 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 - 0.1in grid that actually matches the schematic view
 - a boring default square you can use or delete
 - a couple boring lines with rounded caps you can use, duplicate, or delete
+- pins on their own layer so you won't have trouble selecting them later
 
 ### PCB
 - see the major groups in the layers panel
