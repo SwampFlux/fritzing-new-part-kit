@@ -2,7 +2,7 @@
 
 Hello, human being. Are you interested in using Fritzing for a project, and just bumped into the fact that a part you'd like to use does not exist? That happens a lot, it turns out. It also turns out that the templates provided by fritzing.org, while well meaning, are pretty terrible. So I made new ones that are much better.
 
-## What Am I supposed to do with these?
+### What Am I supposed to do with these?
 Open up each SVG in Inkscape. Design your part all three ways. Import your modified SVGs into Fritzing to assign pins and stuff like that.
 
 ## Features
@@ -14,6 +14,7 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 - snapping settings that make lining up with the grid excellent
 
 ### Schematic
+![Blank schematic template](./screenshots/schematic-fresh.png)
 - not-white background so you can see your white-filled shapes
 - document units set to inches (no one explains these things)
 - line width units in pixels (1px is the standard)
