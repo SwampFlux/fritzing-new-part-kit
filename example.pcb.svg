@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0in"
+   y="0in"
+   width="10mm"
+   height="15mm"
+   viewBox="0 0 10 15"
+   version="1.1"
+   id="svg4645"
+   sodipodi:docname="example.pcb.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4649">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4647" />
+  <sodipodi:namedview
+     pagecolor="#edecd2"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="960"
+     id="namedview26"
+     showgrid="true"
+     inkscape:zoom="4.667186"
+     inkscape:cx="19.992322"
+     inkscape:cy="21.096986"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="copper0"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:snap-object-midpoints="true"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4651"
+       units="in"
+       empspacing="1"
+       spacingx="2.54"
+       spacingy="2.54"
+       color="#000000"
+       opacity="0.04313725"
+       empcolor="#aa0000"
+       empopacity="0.21176471"
+       enabled="true"
+       dotted="false"
+       originy="1.27"
+       originx="1.27" />
+  </sodipodi:namedview>
+  <g
+     id="outline"
+     inkscape:groupmode="layer"
+     inkscape:label="Outline"
+     style="display:inline">
+    <rect
+       style="fill:#ffcc00;fill-opacity:0.19125683;stroke:#ff6600;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect19159"
+       width="17.779999"
+       height="15.952738"
+       x="-3.8099999"
+       y="0.31725866" />
+  </g>
+  <g
+     id="copper0"
+     inkscape:groupmode="layer"
+     inkscape:label="Copper"
+     transform="translate(0.30392088,4.0148015)"
+     style="display:inline;fill:#ffff00">
+    <text
+       x="-12.868657"
+       y="17.063726"
+       id="text19143"
+       style="font-size:2.82222223px;fill:#aa8800">Pads</text>
+    <g
+       id="copper1"
+       style="fill:#ff0000"
+       transform="translate(-5.40669,21.0628)">
+      <text
+         x="0"
+         y="0"
+         id="text19145"
+         style="font-size:2.82222223px;fill:#ff0000">Through Hole</text>
+      <rect
+         ry="0.5"
+         style="fill:#ff0000;stroke:none;stroke-width:0.44979182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         height="1.0544015"
+         width="1.8866202"
+         y="0.29799724"
+         x="3.8327692"
+         connectorname="RING"
+         id="rect4555" />
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     inkscape:groupmode="layer"
+     inkscape:label="Silkscreen"
+     transform="translate(1.0041896,2.6825837)"
+     style="stroke:#000000">
+    <path
+       d="m 1.7258272,1.007706 h -1.84583031 v 9.891627 H 1.7258272 m 4.6999666,0 H 8.271624 V 1.007706 H 6.4257938"
+       id="path4642"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccc" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path952"
+       cx="4.0758104"
+       cy="5.9535193"
+       r="2.859287" />
+  </g>
+  <g
+     id="keepout"
+     inkscape:groupmode="layer"
+     inkscape:label="Keep Out" />
+  <g
+     id="soldermask"
+     inkscape:groupmode="layer"
+     inkscape:label="Solder Mask">
+    <rect
+       style="fill:#008080;fill-opacity:0.56284156;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect19161"
+       width="12.699999"
+       height="7.0074592"
+       x="-1.27"
+       y="8.6499996" />
+  </g>
+</svg>

@@ -23,7 +23,7 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 - a couple boring lines with rounded caps you can use, duplicate, or delete
 
 ### PCB
-- see most of the groups in the layers panel
+- see the major groups in the layers panel
 - helper objects for drilling inside of front copper or rear copper
 - lots of grids for various package sizes, all named
 
