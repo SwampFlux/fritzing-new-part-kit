@@ -14,7 +14,7 @@ Open up each SVG in Inkscape. Design your part all three ways. Import your modif
 - snapping settings that make lining up with the grid excellent
 
 ### Schematic
-![Blank schematic template](./screenshots/schematic-fresh.png)
+![Blank schematic template](screenshots/schematic-fresh.png)
 - not-white background so you can see your white-filled shapes
 - document units set to inches (no one explains these things)
 - line width units in pixels (1px is the standard)
