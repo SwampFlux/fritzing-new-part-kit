@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    x="0in"
    y="0in"
-   width="10mm"
+   width="15mm"
    height="15mm"
-   viewBox="0 0 10 15"
+   viewBox="0 0 15 15"
    version="1.1"
    id="svg4645"
    sodipodi:docname="example.pcb.svg"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -58,13 +58,13 @@
      inkscape:window-height="960"
      id="namedview26"
      showgrid="true"
-     inkscape:zoom="9.334372"
-     inkscape:cx="19.992322"
-     inkscape:cy="21.096986"
+     inkscape:zoom="4.667186"
+     inkscape:cx="21.694085"
+     inkscape:cy="21.507607"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="outline"
+     inkscape:current-layer="silkscreen"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
@@ -185,7 +185,7 @@
      inkscape:label="Outline"
      style="display:inline">
     <rect
-       style="fill:#ffcc00;fill-opacity:0.19125683;stroke:#ff6600;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffcc00;fill-opacity:0.19125683;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect19159"
        width="17.779999"
        height="15.952738"
@@ -195,23 +195,12 @@
   <g
      id="copper0"
      inkscape:groupmode="layer"
-     inkscape:label="Copper"
-     transform="translate(0.30392088,4.0148015)"
-     style="display:inline;fill:#ffff00">
-    <text
-       x="-12.868657"
-       y="17.063726"
-       id="text19143"
-       style="font-size:2.82222223px;fill:#aa8800">Pads</text>
+     inkscape:label="Copper Pads"
+     transform="translate(0.30392088,4.0148015)">
     <g
        id="copper1"
-       style="fill:#ff0000"
-       transform="translate(-5.40669,21.0628)">
-      <text
-         x="0"
-         y="0"
-         id="text19145"
-         style="font-size:2.82222223px;fill:#ff0000">Through Hole</text>
+       inkscape:groupmode="layer"
+       inkscape:label="Copper Through Hole">
       <rect
          ry="0.5"
          style="fill:#ff0000;stroke:none;stroke-width:0.44979182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -232,7 +221,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Solder Mask">
     <rect
-       style="fill:#0f6b24;fill-opacity:0.56284153;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#0f6b24;fill-opacity:0.56284156;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect19161"
        width="12.699999"
        height="7.0074592"
@@ -249,10 +238,10 @@
        d="m 1.7258272,1.007706 h -1.84583031 v 9.891627 H 1.7258272 m 4.6999666,0 H 8.271624 V 1.007706 H 6.4257938"
        id="path4642"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cccccccc" />
     <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path952"
        cx="4.0758104"
        cy="5.9535193"
